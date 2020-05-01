@@ -1,0 +1,16 @@
+/*
+Theme Name: Hestia Child
+Theme URI: localhost
+Description: This is a child theme of Hestia
+Author: Adam Ferguson
+Author URI: https://www.aferguson.co.uk
+Template: Hestia
+Version: 0.1
+*/
+.hestia-title,
+.hestia-title a {
+  color: blue; }
+
+h2 {
+  color: palegreen; }
+/*# sourceMappingURL=style.css.map */
